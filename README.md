@@ -1,9 +1,6 @@
 ### Hi This is Jai Khambhayta 👋
 
-
-
-- 🔭 I’m currently working on Flutter.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently learning Flutter and Node js.
 - 👯 I’m looking to collaborate on Flutter.
 - 🤔 I’m looking for help with Flutter.
 - 💬 Ask me about FLutter.
